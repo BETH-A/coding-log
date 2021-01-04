@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import Entries from './Entries';
 
 const Log = ({ items }) => {
     //Initilize State
@@ -31,7 +30,7 @@ const Log = ({ items }) => {
 
     return (
         <div className="ui container">
-            <div className="ui styled accordion">
+            <div className="ui styled fluid accordion">
                 {renderedItems}
             </div>
         </div>
