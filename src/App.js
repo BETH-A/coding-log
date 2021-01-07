@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Log from './Log';
 import Entries from './Entries';
 import Header from './Header';

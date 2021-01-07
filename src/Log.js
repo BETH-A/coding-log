@@ -22,7 +22,12 @@ const Log = ({ items }) => {
                     {item.title}
                 </div>
                 <div className={`content ${active}`}>
-                    <p> {item.content} </p>
+                    <p> {item.content.p1} </p>
+                    <p> {item.content.p2} </p>
+                    <p> {item.content.p3} </p>
+                    <p> {item.content.p4} </p>
+                    <p> {item.content.p5} </p>
+                    <p> {item.content.p6} </p>
                 </div>
             </React.Fragment>
         )
