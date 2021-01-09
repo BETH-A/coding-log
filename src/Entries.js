@@ -62,7 +62,37 @@ const Entries = [
             p2: 'Once the styling enhancements had been made, I started in updating the deployed sites.  Video Player which gave me so much trouble the last 2 day, re-deployed with no problems! Picture Finder which originally deployed with no problems, is now giving me problems, similar to what I had the other day with Video Player. So I am not sure what I am doing wrong!',
             p3: 'I also spent a period of time today detailing my experiences with Video Player the last 2 days.  I am getting it ready to publish on LI & either Medium or Dev.  It will be the 1st article that I have published, so I am rather nervous about that!'
         }
-    }
+    },
+    {
+        title: 'Jan 7, 2021',
+        content: {
+            p1: 'Today was a bit of a roller coaster for me coding wise.  I wore up feeling confident and excited to get to my computer, but by the end of the day I left, I had been put thru the ringer. Once I got in front of the computer, I realized that I had several non-coding related tasks that I needed to get done before I started coding.  So I got these completed and was ready to begin coding by mid-afternoon.',
+
+            p2: 'I did a few minor coding tasks to get me going because I had two coding assessments for a Developer job application. The assessments are the first coding take-home assessments that I have taken. So I was very nervous about doing them & put them off for a while today. I decided to complete one today & one tomorrow.',
+
+            p3: 'I started with the General Coding assessment, which was the one I was dreading the most.  I knew it would be an algorithm question and in all honesty, I hate doing those! I knew I had to complete it in 1 session within a 24-hour time limit, and I had to use their code editor. I figure these are standard rules for coding assessments, but still new to me and added some additional pressure.',
+
+            p4: 'So the question:',
+
+            p5: '"Have the function Calculator(str) take the str parameter being passed and evaluate the mathematical expression within in. For example, if str were "2+(3-1)*3" the output should be 8. Another example: if str were "(2-0)(6/2)" the output should be 6. There can be parenthesis within the string so you must evaluate it properly according to the rules of arithmetic. The string will contain the operators: +, -, /, , (, and ). If you have a string like this: #/## or #+#(#)/#, then evaluate from left to right. So divide then multiply, and for the second one multiply, divide, then add. The evaluations will be such that there will not be any decimal operations, so you do not need to account for rounding and whatnot."',
+
+            p6: 'I read the question & my mind went utterly blank!!!! I think I read the problem at least four times before I could comprehend what I was reading. It was not that I had not solved questions similar to this before, but I was nervous, stressed, & hate doing algorithms; my brain said nope, not reading this right now. When I did start to comprehend it, it immediately started overthinking it.  I started writing my code in a much more complicated way than was necessary. Long story short, it took way more time than it should have to solve the question, but I did get it solved! Part of the delay was not being familiar with the testing software; part of it was external distractions (dog & dinner). When it finally got the assessment submitted, I was feeling done for the day. So tomorrow, I will tackle the React assessment, and hopefully, it will go much better!'
+        }
+    },
+    {
+        title: 'Jan 8, 2021',
+        content: {
+            p1: 'React coding assestment day!!!',
+
+            p2: ''
+        }
+    },
+    {
+        title: '',
+        content: {
+            p1: ''
+        }
+    },
 ]
     
 
