@@ -82,8 +82,17 @@ const Entries = [
     {
         title: 'Jan 8, 2021',
         content: {
-            p1: 'React coding assestment day!!!',
+            p1: 'React coding assessment day!!!',
 
+            p2: 'I started the React coding assessment on the same platform as the General Coding assessment. This time, the assignment was to create a form a user would fill out with their first name, last name, and phone #. It would add their info to a Phone Book/Directory in alphabetical order by last name when they submitted the form.',
+
+            p3: 'All in all, the assessment was not too difficult, but the main obstacle I had was the assessment site.  A big part of this challenge was to design it and make sure it had useful UI. Making sure the design was the way I wanted was more challenging to do to the fact that I could not use Inspect. Again, I had 24 hours to complete this assessment, but I choose to split it up to sleep on it.'
+        }
+    },
+    {
+        title: 'Jan 9, 2021',
+        content: {
+            p1: 'I  completed the React coding assessment today. After sleeping on the challenge, I ended up re-writing much of the code to make it more efficient.  I was not wholly satisfied with the styling but was please enough with it to submit the assessment. ',
             p2: ''
         }
     },
