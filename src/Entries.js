@@ -97,12 +97,24 @@ const Entries = [
         }
     },
     {
+        title: 'Jan 10, 2021',
+        content: {
+            p1: 'I took today off. & needed to recharge.  Read some of Sprint by Jack Knapp. In addition to strengthening my Dev skillsets, I have been working on building my skills as a Project Manager.'
+        }
+    },
+    {
         title: '',
         content: {
             p1: ''
         }
     },
-]
+    {
+        title: '',
+        content: {
+            p1: ''
+        }
+    },
+6
     
 
 export default Entries;
