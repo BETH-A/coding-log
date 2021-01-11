@@ -114,7 +114,6 @@ const Entries = [
             p1: ''
         }
     },
-6
-    
+]    
 
 export default Entries;
