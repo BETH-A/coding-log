@@ -103,9 +103,9 @@ const Entries = [
         }
     },
     {
-        title: '',
+        title: 'Jan 11, 2021',
         content: {
-            p1: ''
+            p1: 'Today was a PM day.  I was battling an ocular migraine all day, so coding was not really an option, but I was able to read some more of Sprint by Jack Knapp and started the Mentor Mesh PM Accerlator Course.  I am really excited about this course as it will help me build my PM skills. I completed get the Accelerator week 1 course work as it was mainly videos that I could listen to, and then attended the orientation webinar. I am really looking forward to getting back to my React course tomorrow!'
         }
     },
     {
