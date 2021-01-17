@@ -1,0 +1,20 @@
+.ui.secondary.pointing.menu {
+    justify-content: center;
+}
+
+.ui.secondary.pointing.menu .item {
+    color: #d4d4d4;
+}
+
+a {
+    color: #d4d4d4;
+}
+
+a:hover {
+    color: #ca8d90;
+}
+
+a.item.links {
+    font-size: medium;
+    padding: 1rem;
+}

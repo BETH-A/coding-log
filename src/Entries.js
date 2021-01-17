@@ -128,9 +128,43 @@ const Entries = [
             p1: 'Today is a new & better day!  I woke up feeling recharged & ready to work! Yesterday, I thought about attacking my career goals best as they are split into two paths right now. So I have been studying and developing my skillsets as a Developer (Full-Stack & iOS), but I am also interested in being a PM. ',
             p2: 'With my work history, being a PM might be a much better fit for me. I do enjoy development, but I do not have professional experience yet. I know I can get a job as a Developer eventually. But I have experience building and managing teams, so if I focus on that experience and add in my development skills, I could be an effective PM. Now I need to find the right company that is willing to give me a chance to prove myself!',
             p3: 'So, I have decided that I will spend my mornings working on my PM skills and the afternoons working on my Dev skills.',
-            p4: 'I worked through two LinkedIn Learning courses as part of the "Becoming A Software Project Manager" learning path for this morning.  This learning path focuses on exploring project management fundamentals, learning how to implement agile and lean processes, and implementing best practices for software development. I believe this learning path will help me both as a PM and a Developer. ',
+            p4: 'I worked through two LinkedIn Learning courses as part of the "Becoming A Software Project Manager" learning path this morning. This learning path focuses on exploring project management fundamentals, implementing agile and lean processes, and implementing best practices for software development. I believe this learning path will help me both as a PM and a Developer.',
             p5: 'As I am already a Certified Scrum Master, much of the fundaments are a refresher for me, but the learning path dives into advanced Scrum topics, DevOps Foundations, and Agile Testing.',
-            p6: 'This afternoon, I am diving back into the React and Redux course that I am taking. It is my 1st look into Redux, so I am excited to start with that today! So more to come on that later.'
+            p6: 'This afternoon, I am diving back into React and working on my Coding Log & my website. To my Coding Log, I added links to my website, contact form, LinkedIn, and GitHub to add my Coding Log to my website as a project/blog, and yet users can navigate between them. I am also adding the necessary code to my website to link them. I need to decide if I want this to be a blog on my website navbar or add it to my projects page.'
+        }
+    },
+    {
+        title: 'Jan 15, 2021',
+        content: {
+            p1: '',
+            p6: 'This afternoon, I am diving back into the React and Redux course that I am taking. It is my 1st look into Redux, so I am excited to start with that today! So more to come on that later.',
+            p2: '',
+            p3: '',
+            p4: '',
+            p5: '',
+            p6: ''
+        }
+    },
+    {
+        title: 'Jan 16, 2021',
+        content: {
+            p1: 'Working on setting us a schedule & I decided that Saturday would be my down day.  My day to step away from the computer & focus on other things.  So I did some reading on Sprint & worked some on building my network.',
+            p2: '',
+            p3: '',
+            p4: '',
+            p5: '',
+            p6: ''
+        }
+    },
+    {
+        title: 'Jan 17, 2021',
+        content: {
+            p1: '',
+            p2: '',
+            p3: '',
+            p4: '',
+            p5: '',
+            p6: ''
         }
     },
     {

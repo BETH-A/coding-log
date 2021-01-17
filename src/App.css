@@ -39,3 +39,20 @@ h1 {
 .accordion {
     text-align: start;
 }
+
+.ui.inverted.segment, .ui.primary.inverted.segment {
+    background: teal;
+}
+
+div.title, div.title.active, div.content, .ui.inverted.segment, .ui.primary.inverted.segment {
+    background-color: #0d0d0d;
+}
+
+/* div.title.active {
+    background-color: #1b1c1d;
+} */
+
+.ui.styled.accordion .accordion .active.title, .ui.styled.accordion .accordion .title:hover, .ui.styled.accordion .active.title, .ui.styled.accordion .title:hover{
+    background-color: #ca8d90;
+}
+

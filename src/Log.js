@@ -35,10 +35,13 @@ const Log = ({ items }) => {
 
     return (
         <div className="ui container">
-            <div className="ui styled fluid accordion">
+            <div className="ui inverted segment">
+            <div className="ui styled fluid inverted accordion">
                 {renderedItems}
             </div>
+            </div>
         </div>
+        
         
     )
 };
