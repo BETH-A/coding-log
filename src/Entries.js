@@ -136,10 +136,9 @@ const Entries = [
     {
         title: 'Jan 15, 2021',
         content: {
-            p1: '',
-            p6: 'This afternoon, I am diving back into the React and Redux course that I am taking. It is my 1st look into Redux, so I am excited to start with that today! So more to come on that later.',
-            p2: '',
-            p3: '',
+            p1: 'I spent my morning at the vet with Yogi, but I could do some LinkedIn Learning while waiting at the vet. So was still a productive day.',
+            p2: 'This afternoon, I was planning on getting back into my React course but ended up working on many different tasks.  I did some LinkedIn Learning, worked someone my LinkedIn profile, applied for some jobs, attended a fantastic webinar, and networked some.',
+            p3: 'So the webinar I attended was hosted by Prentus & featured Clement Kao.  He talked about product management in a way that I have not heard previously.  He spoke about how we should approach our journeys as if we are the product and the companies are the user.  That we should develop ourselves into the best product that the company(user) needs to solve the problem(s) that they have.  His advice was a very profound statement for me.',
             p4: '',
             p5: '',
             p6: ''
